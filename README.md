@@ -3,5 +3,4 @@ A simple website that informs visitors all about the COVID-19 Pandemic, and how 
 
 A goal of testing structure, design, and animations all in one page
 
-
-Test
+Hi.
